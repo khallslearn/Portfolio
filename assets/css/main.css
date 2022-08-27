@@ -2136,6 +2136,9 @@ input, select, textarea {
 	#contact footer {
 		font-size: 0.9em;
 	}
+	#abouter{
+		justify-content: center;
+	}
 
 /* Copyright */
 
