@@ -154,7 +154,7 @@ input, select, textarea {
 		margin: 0 0 0.75em 0;
 	}
 	h3{
-		color:#242424
+		color:white
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2039,7 +2039,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color:#3BA8D3;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2448,4 +2448,8 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+	#darker{
+		background-color: #242424;
+		
 	}
